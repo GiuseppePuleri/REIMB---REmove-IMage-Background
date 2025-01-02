@@ -58,13 +58,6 @@ Defines the GUI layout and behavior:
 
 ---
 
-## Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone <repository_url>
-   cd <repository_name>
-
 ## Usage
 
 1. Launch the application by running `main.py`.
