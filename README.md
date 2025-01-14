@@ -2,7 +2,7 @@
 
 This application processes images contained in ZIP files, removes their backgrounds, and saves the results. It features a graphical user interface (GUI) built with PyQt5, utilizing the Fluent Design System for a modern and user-friendly experience.
 
-- [Free `.exe` For Windows In My WebSite](https://reimb.puleri.com)
+- [Free `.exe` For Windows In My WebSite](https://reimb.puleri.it)
 
 In addition to the Python version, an executable file (`.exe`) is also available, allowing users to run the application on Windows without needing to install Python or any dependencies.
 ## Features
