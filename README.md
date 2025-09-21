@@ -1,4 +1,4 @@
-# REIMB - REmove-IMage-Background
+# REIMB
 
 This application processes images contained in ZIP files, removes their backgrounds, and saves the results. It features a graphical user interface (GUI) built with PyQt5, utilizing the Fluent Design System for a modern and user-friendly experience.
 
